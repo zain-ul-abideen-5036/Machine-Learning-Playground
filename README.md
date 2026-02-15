@@ -1,7 +1,19 @@
-# 🤖 Machine-Learning-Playground
-<p align="left"> 
-  
-  <!-- Core Languages --> 
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
+  <h2 align="center">Machine-Learning-Playground</h2>
+</p>
+
+<p align="center">
+  Welcome to <b> Machine-Learning-Playground </b> 🚀  
+</p>
+
+<p align="center">
+  This repository is a curated collection of machine learning, deep learning, and AI projects built for learning, experimentation, and real-world problem solving. Each project is organized in its own folder with clean structure, documentation, and reproducible code.
+</p>
+
+
+<p align="center">
+ <!-- Core Languages --> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
   <!-- AI / ML Concepts --> 
@@ -26,17 +38,14 @@
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### A Central Hub for Machine Learning & AI Projects
-
-Welcome to **Machine-Learning-Playground** 🚀  
-This repository is a curated collection of machine learning, deep learning, and AI projects built for learning, experimentation, and real-world problem solving.
-
-Each project is organized in its own folder with clean structure, documentation, and reproducible code.
-
 ---
+
+
+
+
 
 ## 🧠 Focus Areas
 - Machine Learning
@@ -52,8 +61,8 @@ Each project is organized in its own folder with clean structure, documentation,
 ## 📂 Repository Structure
 
 ```bash
-AI-ML-Lab/
+Machine-Learning-Playground/
 │
-├── Supervised-Learning/
-│
+├── Project-01 Instagram Reach Forecasting/
+├── Project-02 App User Segmentation
 └── README.md
