@@ -47,7 +47,7 @@
 
 
 
-## 🧠 Focus Areas
+## Focus Areas
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
@@ -58,7 +58,7 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 Machine-Learning-Playground/
