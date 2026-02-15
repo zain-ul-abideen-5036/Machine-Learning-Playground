@@ -1,6 +1,6 @@
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
-  <h2 align="center">Machine-Learning-Playground</h2>
+  <h2 align="center"> A Central Hub for Machine Learning & AI Projects</h2>
 </p>
 
 <p align="center">
