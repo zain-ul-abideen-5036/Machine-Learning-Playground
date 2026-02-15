@@ -119,4 +119,4 @@ This project demonstrates how machine learning can be used to:
 
 **Zain Ul Abideen**  
 📩 abideen5036@gmail.com  
-🌐 GitHub: https://github.com/YOUR-USERNAME
+🌐 GitHub: [zain-ul-abideen-5036](https://github.com/zain-ul-abideen-5036)
