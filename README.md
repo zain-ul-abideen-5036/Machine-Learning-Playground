@@ -64,5 +64,6 @@
 Machine-Learning-Playground/
 │
 ├── Project-01 Instagram Reach Forecasting/
-├── Project-02 App User Segmentation
+├── Project-02 App User Segmentation/
+├── Project-03 User Profiling and Segmentation/
 └── README.md
