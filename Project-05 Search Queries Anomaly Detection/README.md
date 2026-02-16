@@ -95,6 +95,6 @@ This project demonstrates how anomaly detection can improve:
 
 ## Contact
 
-**Zain Abideen**  
+**Zain Ul Abideen**  
 📩 abideen5036@gmail.com  
 🌐 GitHub: [zain-ul-abideen-5036](https://github.com/zain-ul-abideen-5036)
