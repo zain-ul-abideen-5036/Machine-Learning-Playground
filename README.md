@@ -66,4 +66,5 @@ Machine-Learning-Playground/
 ├── Project-01 Instagram Reach Forecasting/
 ├── Project-02 App User Segmentation/
 ├── Project-03 User Profiling and Segmentation/
+├── Project-04 Transaction Anomalies Detection/
 └── README.md
