@@ -67,4 +67,5 @@ Machine-Learning-Playground/
 ├── Project-02 App User Segmentation/
 ├── Project-03 User Profiling and Segmentation/
 ├── Project-04 Transaction Anomalies Detection/
+├── Project-05 Search Queries Anomaly Detection/
 └── README.md
