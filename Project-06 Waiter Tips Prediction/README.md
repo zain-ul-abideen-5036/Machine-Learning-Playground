@@ -79,9 +79,9 @@ This project analyzes tipping behavior in restaurants and builds a **Linear Regr
 {total_bill: 24.50, sex: 1, smoker: 0, day: 0, time: 1, size: 4}
 ```
 
-**Input:**
+**Output:**
 ```python
-{total_bill: 24.50, sex: 1, smoker: 0, day: 0, time: 1, size: 4}
+Predicted Tip: [3.97416925]
 ```
 
 ---
