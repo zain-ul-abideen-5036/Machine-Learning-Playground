@@ -69,4 +69,5 @@ Machine-Learning-Playground/
 ├── Project-04 Transaction Anomalies Detection/
 ├── Project-05 Search Queries Anomaly Detection/
 ├── Project-06 Waiter Tips Prediction/
+├── Project-07 Spread Pattern and Behaviour Analysis of COVID-19 (Pakistan)/
 └── README.md
