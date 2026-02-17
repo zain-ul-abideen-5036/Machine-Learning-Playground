@@ -194,3 +194,7 @@ Feel free to:
 📩 abideen5036@gmail.com  
 🌐 GitHub: [zain-ul-abideen-5036](https://github.com/zain-ul-abideen-5036)
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
