@@ -1,19 +1,21 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Machine%20Learning%20Playground&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+
+<p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
-  <h2 align="center"> A Central Hub for Machine Learning & AI Projects</h2>
+  <h2 align="center">A Central Hub for Machine Learning & AI Projects</h2>
 </p>
 
 <p align="center">
-  Welcome to <b> Machine-Learning-Playground </b> 🚀  
-</p>
-
-<p align="center">
-  This repository is a curated collection of machine learning, deep learning, and AI projects built for learning, experimentation, and real-world problem solving. Each project is organized in its own folder with clean structure, documentation, and reproducible code.
+  This repository is a curated collection of machine learning, deep learning, and AI projects built for learning, experimentation, and real-world problem solving.  
+  Each project is organized in its own folder with clean structure, documentation, and reproducible code.
 </p>
 
 
 <p align="center">
- <!-- Core Languages --> 
+  <!-- Core Languages --> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
   <!-- AI / ML Concepts --> 
@@ -43,11 +45,31 @@
 
 ---
 
+## About This Repository
 
+**Machine-Learning-Playground** is designed to:
 
+-  Practice real-world data analysis
+-  Implement machine learning models
+-  Perform forecasting & prediction
+-  Explore anomaly detection techniques
+-  Build structured and documented ML projects
+-  Strengthen portfolio for internships & jobs
 
+Each project includes:
+- Clean dataset handling
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Machine Learning implementation
+- Model evaluation
+- Clear documentation
+
+> Designed to demonstrate practical ML skills for internships, freelance work, and full-time roles.
+
+---
 
 ## Focus Areas
+
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
@@ -55,6 +77,8 @@
 - Computer Vision
 - Natural Language Processing (NLP)
 - Predictive Analytics
+- Time Series Forecasting
+- Anomaly Detection
 
 ---
 
@@ -71,3 +95,102 @@ Machine-Learning-Playground/
 ├── Project-06 Waiter Tips Prediction/
 ├── Project-07 Spread Pattern and Behaviour Analysis of COVID-19 (Pakistan)/
 └── README.md
+```
+
+
+## Project List
+
+### 1️⃣ Instagram Reach Forecasting
+🔗 **[Project-01 Instagram Reach Forecasting](./Project-01%20Instagram%20Reach%20Forecasting)**  
+
+- Time series analysis
+- Engagement trend forecasting
+- Regression modeling
+
+
+### 2️⃣ App User Segmentation
+🔗 **[Project-02 App User Segmentation](./Project-02%20App%20User%20Segmentation)**  
+
+- Customer clustering
+- K-Means implementation
+- Behavioral segmentation
+
+
+### 3️⃣ User Profiling & Segmentation
+🔗 **[Project-03 User Profiling and Segmentation](./Project-03%20User%20Profiling%20and%20Segmentation)**  
+
+- Demographic analysis
+- Feature engineering
+- ML-based grouping
+
+### 4️⃣ Transaction Anomalies Detection
+🔗 **[Project-04 Transaction Anomalies Detection](./Project-04%20Transaction%20Anomalies%20Detection)**
+
+- Fraud detection
+- Isolation Forest
+- Outlier detection
+
+### 5️⃣ Search Queries Anomaly Detection
+🔗 **[Project-05 Search Queries Anomaly Detection](./Project-05%20Search%20Queries%20Anomaly%20Detection)** 
+
+- Query performance analysis
+- CTR & impression study
+- Machine learning anomaly detection
+
+### 6️⃣ Waiter Tips Prediction
+🔗 **[Project-06 Waiter Tips Prediction](./Project-06%20Waiter%20Tips%20Prediction)**  
+
+- Regression modeling
+- Feature correlation analysis
+- Income prediction
+
+ ### 7️⃣ Spread Pattern & Behaviour Analysis of COVID-19 (Pakistan)
+🔗 **[Project-07 Spread Pattern and Behaviour Analysis of COVID-19 (Pakistan)](./Project-07%20Spread%20Pattern%20and%20Behaviour%20Analysis%20of%20COVID-19%20(Pakistan))**  
+
+- Pandemic data analysis
+- Weekly & monthly statistics
+- Per million calculations
+- Time-series forecasting
+
+---
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib & Seaborn
+- Plotly
+- Scikit-Learn
+- TensorFlow / PyTorch
+- Jupyter Notebook
+
+---
+
+## How to Use
+1. Clone the repository:
+```bash
+git clone https://github.com/zain-ul-abideen-5036/Machine-Learning-Playground.git
+```
+2. Navigate into any project folder.
+3. Install required dependencies.
+4. Run the Jupyter Notebook.
+
+---
+
+## Contribution
+Contributions are welcome!
+Feel free to:
+
+- Fork this repository
+- Improve documentation
+- Add new ML projects
+- Optimize models
+
+---
+
+## Author
+
+**Zain Ul Abideen**  
+📩 abideen5036@gmail.com  
+🌐 GitHub: [zain-ul-abideen-5036](https://github.com/zain-ul-abideen-5036)
+
