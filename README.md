@@ -68,4 +68,5 @@ Machine-Learning-Playground/
 ├── Project-03 User Profiling and Segmentation/
 ├── Project-04 Transaction Anomalies Detection/
 ├── Project-05 Search Queries Anomaly Detection/
+├── Project-06 Waiter Tips Prediction/
 └── README.md
