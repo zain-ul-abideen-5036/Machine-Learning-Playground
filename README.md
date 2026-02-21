@@ -152,6 +152,15 @@ Machine-Learning-Playground/
 - Per million calculations
 - Time-series forecasting
 
+### 8️⃣ Traffic Volume Analysis
+🔗 **[Project-08 Traffic Volume Analysis](./Project-08%20Traffic%20Volume%20Analysis)**
+
+- Hourly, daily, and monthly traffic pattern analysis
+- Daytime vs nighttime traffic comparison
+- Business day vs weekend traffic study
+- Visualization using Matplotlib & Seaborn
+- Optional: Weather impact and predictive modeling
+
 ---
 
 ## Technologies Used
