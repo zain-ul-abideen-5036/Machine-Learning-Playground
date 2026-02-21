@@ -103,6 +103,6 @@ This project demonstrates how machine learning can enhance:
 
 ## Contact
 
-**Zain Abideen**  
+**Zain Ul Abideen**  
 📩 abideen5036@gmail.com  
 🌐 GitHub: [zain-ul-abideen-5036](https://github.com/zain-ul-abideen-5036)
