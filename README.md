@@ -94,7 +94,7 @@ Machine-Learning-Playground/
 ├── Project-05 Search Queries Anomaly Detection/
 ├── Project-06 Waiter Tips Prediction/
 ├── Project-07 Spread Pattern and Behaviour Analysis of COVID-19 (Pakistan)/
-├── Project-08 Traffic Volume Analysis/
+├── Project-08 Heavy Traffic Analysis/
 └── README.md
 ```
 
@@ -154,7 +154,7 @@ Machine-Learning-Playground/
 - Time-series forecasting
 
 ### 8️⃣ Traffic Volume Analysis
-🔗 **[Project-08 Traffic Volume Analysis](./Project-08%20Traffic%20Volume%20Analysis)**
+🔗 **[Project-08 Heavy Traffic Analysis](./Project-08%20Heavy%20Traffic%20Analysis)**
 
 - Hourly, daily, and monthly traffic pattern analysis
 - Daytime vs nighttime traffic comparison
