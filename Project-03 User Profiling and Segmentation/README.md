@@ -116,6 +116,6 @@ This project demonstrates how data profiling and clustering techniques can:
 
 ## Contact
 
-**Zain Abideen**  
+**Zain Ul Abideen**  
 📩 abideen5036@gmail.com  
 🌐 GitHub: [zain-ul-abideen-5036](https://github.com/zain-ul-abideen-5036)
