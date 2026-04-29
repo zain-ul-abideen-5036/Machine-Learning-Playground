@@ -97,7 +97,7 @@ Machine-Learning-Playground/
 ├── Project-08 Heavy Traffic Analysis/
 └── README.md
 ```
-
+---
 
 ## Project List
 
@@ -107,7 +107,6 @@ Machine-Learning-Playground/
 - Time series analysis
 - Engagement trend forecasting
 - Regression modeling
-
 
 ### 2️⃣ App User Segmentation
 🔗 **[Project-02 App User Segmentation](./Project-02%20App%20User%20Segmentation)**  
